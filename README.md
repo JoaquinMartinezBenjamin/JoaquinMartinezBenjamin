@@ -28,9 +28,5 @@
 </div>
 
 
-<div width ="100%" align="right">
-- 📫 How to reach me: 
-&nbsp; <a href="https://www.linkedin.com/in/benjaminjoaquin/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 
-</div>
 
